@@ -11,7 +11,7 @@ using namespace std;
 	
 	class cust
 	{
-		public :
+		private :
 		int id;
 		char name[20];
 		int age;
@@ -19,7 +19,7 @@ using namespace std;
 		double m_num;
 		int sim_val;
 		char sim_brand[20];
-		
+		public:
 		void input()
 		{
 			cout << "Enter ID :";
