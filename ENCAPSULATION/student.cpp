@@ -11,7 +11,7 @@ using namespace std;
 	
 	class stu
 	{
-	    public:
+	    private:
 	    	
 		int id;
 		char name[20];
@@ -20,7 +20,7 @@ using namespace std;
 		char city[20];
 		char mail[30];
 		char c_name[50];
-		
+		public:
 		void input()
 		{
 			cout << "Enter ID :";
