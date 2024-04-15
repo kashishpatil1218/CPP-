@@ -1,4 +1,3 @@
-
 #include<iostream>
 using namespace std;
 
@@ -43,9 +42,8 @@ int main()
     a.Fahrenheit();
     a.kelvin();
     a.output();
+	return 0;
 
- 	
-	
-}
+ }
 
 
