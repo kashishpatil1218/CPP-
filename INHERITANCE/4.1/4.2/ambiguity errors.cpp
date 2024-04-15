@@ -26,10 +26,9 @@ class C : public A , public B
 };
 int main()
 {
- 
  	C s1;
  	s1.setter();
-	
+	return 0;
 }
 
 
