@@ -40,7 +40,7 @@ class railway
 		
 	raiway()
 	{
-		cout << "WELCIME TO SURAT !";
+		cout << "WELCOME TO SURAT !";
 	}
 		
 };
